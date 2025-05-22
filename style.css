@@ -1,0 +1,14 @@
+.bg-menu{
+    background-color: #073b59;
+}
+.navbar-nav li a{
+    color: white;
+    border-bottom: #073b59;
+}
+.navbar-nav li a:hover{
+    color: white;
+    border-bottom: #fe5000cc;
+}
+.navbar-nav li{
+    padding: 0 20px;
+}
