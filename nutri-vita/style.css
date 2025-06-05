@@ -1,0 +1,30 @@
+body {
+    background-image: url('img/pexels-pixabay-68525.jpg'); /* Substitua pelo caminho da sua imagem de fundo */
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.navbar {
+    background-color: green;
+}
+.bi bi-leaf{
+    text-align: center;
+}
+
+.navbar-brand img {
+    height: 50px; /* Ajuste a altura do logo conforme necessário */
+}
+
+footer {
+    background-color: green; /* Cor sólida para o footer */
+    height: 60px; /* Altura do footer */
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.bg-menu {
+  background-color: #198754 !important; /* Verde Bootstrap */
+}
